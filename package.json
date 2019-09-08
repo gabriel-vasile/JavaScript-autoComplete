@@ -1,0 +1,25 @@
+{
+  "name": "diacritic-autocomplete",
+  "version": "1.0.0",
+  "description": "JavaScript-autoComplete ===================",
+  "main": "auto-complete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-vasile/JavaScript-autoComplete.git"
+  },
+  "keywords": [
+    "diacritic",
+    "autocomplete",
+    "javascript",
+    "insensitive"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabriel-vasile/JavaScript-autoComplete/issues"
+  },
+  "homepage": "https://github.com/gabriel-vasile/JavaScript-autoComplete#readme"
+}
